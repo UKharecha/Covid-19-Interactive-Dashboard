@@ -1,1 +1,2 @@
 # Covid-19-Interactive-Dashboard
+The "Covid-19 Interactive Dashboard" is a project that uses Tableau to create an interactive and visually appealing way to explore and analyze data related to the Covid-19 pandemic. The dashboard includes data on infection rates, mortality rates, and vaccination rates, and allows users to filter by country, region, or date range. The project is a useful tool for researchers, policymakers, and anyone interested in tracking the impact of Covid-19 globally.
